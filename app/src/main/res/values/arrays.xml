@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provinces">
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>DKI Jakarta</item>
+        <item>Banten</item>
+        <item>Sumatera Selatan</item>
+        <item>Sumatera Utara</item>
+        <item>Lampung</item>
+    </string-array>
+</resources>
